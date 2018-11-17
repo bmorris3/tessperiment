@@ -16,4 +16,4 @@ Grazing transit of a variable, slightly evolved star with Rstar: 1.61, Teff: 634
 
 ##### TIC 441462736 [b](https://archive.stsci.edu/hlsps/tess-data-alerts/hlsp_tess-data-alerts_tess_phot_00441462736-s02-01_tess_v1_dvs.pdf)
 
-Two transits of an evolved star. Here I test whether or not there's evidence for unocculted starspots in the vein of [Morris et al 2018](http://adsabs.harvard.edu/abs/2018AJ....156...91M) and find that the exoplanet radius is probably underestimated by the DVS report due to a spot occultation in the first transit (of two total).
+Two transits of an evolved star. Here I measure the planet radius despite the obvious spot occultation followign [Morris et al 2018](http://adsabs.harvard.edu/abs/2018AJ....156...91M) and find that the exoplanet radius is probably underestimated by the DVS report due to a spot occultation in the first transit (of two total).
