@@ -4,7 +4,7 @@ Experiments with [TESS alerts](https://archive.stsci.edu/prepds/tess-data-alerts
 
 ##### TIC 52368076 [b](https://archive.stsci.edu/hlsps/tess-data-alerts/hlsp_tess-data-alerts_tess_phot_00052368076-s01s02-01_tess_v1_dvs.pdf) and [c](https://archive.stsci.edu/hlsps/tess-data-alerts/hlsp_tess-data-alerts_tess_phot_00052368076-s01s02-02_tess_v1_dvs.pdf)
 
-Multiplanet system with 2:1 period ratio. I fit TIC 52368076 for transit timing variations, and find that the innermost planet has at least one significant departure from a linear ephemeris, but there are insufficient measurements to constrain the masses of the planets via [TTVFast](http://adsabs.harvard.edu/abs/2014ApJ...787..132D). 
+Multiplanet system with 2:1 period ratio. I fit TIC 52368076 for transit timing variations, and find that the innermost planet has at least one significant departure from a linear ephemeris, but there are insufficient measurements to constrain the masses of the planets via [TTVFast](http://adsabs.harvard.edu/abs/2014ApJ...787..132D). Unfortunately, according to [tess-point](https://github.com/christopherburke/tess-point) these targets will only be observed in Sectors 1 & 2, so this is all we've got.
 
 ##### TIC 260271203 [B/b](https://archive.stsci.edu/hlsps/tess-data-alerts/hlsp_tess-data-alerts_tess_phot_00260271203-s01s02-01_tess_v1_dvs.pdf)
 
