@@ -12,7 +12,7 @@ This object appears to be orbiting a star with the following properties: Rstar: 
 
 ##### TIC 280830734 [b](https://archive.stsci.edu/hlsps/tess-data-alerts/hlsp_tess-data-alerts_tess_phot_00280830734-s01s02-01_tess_v1_dvs.pdf)
 
-Grazing transit of a variable, slightly evolved star with Rstar: 1.61, Teff: 6340.3 K, Logg: 4.18. Here I test whether or not there's evidence for unocculted starspots in the vein of [Morris et al 2018](http://adsabs.harvard.edu/abs/2018AJ....156...91M) and can't find the reported planet. There's more data coming in Sector 13, but we'll ahve to wait a while for that.
+Grazing transit of a variable, slightly evolved star with Rstar: 1.61, Teff: 6340.3 K, Logg: 4.18. Here I test whether or not there's evidence for unocculted starspots in the vein of [Morris et al 2018](http://adsabs.harvard.edu/abs/2018AJ....156...91M) and can't find the reported planet. There's more data coming in Sector 13, but we'll have to wait a while for that.
 
 ##### TIC 441462736 [b](https://archive.stsci.edu/hlsps/tess-data-alerts/hlsp_tess-data-alerts_tess_phot_00441462736-s02-01_tess_v1_dvs.pdf)
 
