@@ -17,3 +17,7 @@ Grazing transit of a variable, slightly evolved star with Rstar: 1.61, Teff: 634
 ##### TIC 441462736 [b](https://archive.stsci.edu/hlsps/tess-data-alerts/hlsp_tess-data-alerts_tess_phot_00441462736-s02-01_tess_v1_dvs.pdf)
 
 Two transits of an evolved star. Here I measure the planet radius despite the obvious spot occultation following [Morris et al 2018](http://adsabs.harvard.edu/abs/2018AJ....156...91M) and find that the exoplanet radius is probably underestimated by the DVS report due to a spot occultation in the first transit (of two total). Unfortunately, this target will not fall on silicon again according to [tess-point](https://github.com/christopherburke/tess-point).
+
+##### TIC 149010208 [b](https://archive.stsci.edu/hlsps/tess-data-alerts/hlsp_tess-data-alerts_tess_phot_00149010208-s02-01_tess_v1_dvs.pdf)
+
+Lots of transits of an apparently super-inflated hot Jupiter, plus two peculiar brightening events. Could this be a heartbeat star, or self-lensing non-transiting binary a la [Kruse & Agol (2014)](https://ui.adsabs.harvard.edu/#abs/2014Sci...344..275K/abstract)?
