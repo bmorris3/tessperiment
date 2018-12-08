@@ -25,3 +25,11 @@ Lots of transits of an apparently super-inflated hot Jupiter, plus two peculiar 
 ##### TIC 307210830 b/c/d [(TOI 175)](https://exo.mast.stsci.edu/exomast_planet.html?planet=TIC307210830TCE1)
 
 M dwarf at 10 parsecs with three transiting planets.
+
+##### TIC 52368076 b/c/d [(TOI 125)](https://exo.mast.stsci.edu/exomast_planet.html?planet=TIC52368076TCE1)
+
+K1V dwarf with three (?) transiting exoplanets. Inner two near 2:1 MMR. 
+
+##### TIC 278683844 b/c [TOI 119](https://exofop.ipac.caltech.edu/tess/target.php?id=278683844)
+
+Two exceptionally deep transits near 2:1 MMR of a G9V star. 
